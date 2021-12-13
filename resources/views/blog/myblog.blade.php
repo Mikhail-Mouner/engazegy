@@ -9,7 +9,7 @@
             <div class="col-sm-12">
                 @include('layouts.includes._alert')
                 <h4 class="info-text">
-                    All Blog
+                    My Blog
                     <div class="btn-group float-end">
                         <button class="btn btn-primary btn-sm dropdown-toggle" type="button" id="triggerId"
                                 data-toggle="dropdown" aria-haspopup="true"
